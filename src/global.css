@@ -1,0 +1,34 @@
+:root{
+    /*Produto*/
+    --green-dark:#015F43;
+    --green:#00875F;
+    --green-light:#00B37E;
+
+    /*Feedback*/
+
+    --red-dark:#7A1921;
+    --red:#F03847;
+
+    /*Base*/
+
+    --gray1-background:#121214;
+    --gray2-background:#202024;
+    --gray3-background:#323238;
+    --gray4-background:#7C7C8A;
+    --gray5-background:#8D8D99;
+    --gray6-background:#C4C4CC;
+    --gray7-background:#E1E1E6;
+    --white:#FFFFFF;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 140;
+    font-style: normal;
+  
+  }
